@@ -1,0 +1,28 @@
+body {
+    background: black;
+}
+
+.jskmb-calculator {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    background:cadetblue;
+    border: lightseagreen solid 2px;
+    padding: 20px;
+}
+
+.jskmb-calculator .opirations-block button {
+    width: 40px;
+    height: 40px;
+    margin: 15px;
+}
+
+.inpot-block {
+    display: inline-block;
+    padding: 10px;
+}
+
+label {
+    display: block;
+}
+
